@@ -1,3 +1,11 @@
+/*!
+ * jQuery Block Parallax - parallax in not rectangular blocks
+ * (c) 2016 Pavel Aleksandrov
+ * MIT Licensed.
+ *
+ * https://github.com/inblank/jquery.blockparallax
+ */
+
 /*global define, exports, module, jQuery, window, document*/
 (function (factory) {
     if (typeof define === "function" && define.amd) {
